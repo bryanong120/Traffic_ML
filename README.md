@@ -6,9 +6,9 @@ Team Leader:
 Claudia Tan Xu Mei
 
 Team Member: 
-Bryan Ong Ming En
-Ong Sheng Wei Kenrick
-Chan Si En Ivan
+Bryan Ong Ming En,
+Ong Sheng Wei Kenrick,
+Chan Si En Ivan,
 Kamarullah Bin Mohamad Salim
 
 
